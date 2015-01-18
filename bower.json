@@ -1,0 +1,18 @@
+{
+  "name": "public-site",
+  "version": "0.0.0",
+  "homepage": "https://github.com/claudiopetrini/public-site",
+  "authors": [
+    "Claudio Petrini <claudio.petrini@stamplay.com>"
+  ],
+  "description": "Claudio's public site",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
